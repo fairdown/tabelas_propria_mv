@@ -2,7 +2,7 @@
 
 <h2>Apresentação</h2>
 
-Foi elaborado um excel para ajudar os faturistas que utilizam o sistema Hospitalar MV a importarem tabelas próprias de convênio, já que muitos documentos disponibilizados pelos convênios são encaminhados em pdf ou excel. Com este intuito, foi elaborado este documento em excel para que permita colocar as colunas desejadas na transformação para o layout exigido pela MV.
+Foi elaborado um excel para ajudar os faturistas que utilizam o sistema Hospitalar MV a importarem tabelas próprias de convênio, já que muitos documentos disponibilizados pelos convênios são encaminhados em pdf ou excel. Com este intuito, foi elaborado este arquivo em excel para que permita colocar as colunas desejadas na transformação para o layout exigido pela MV.
 
 <h2>Considerações</h2>
 O arquivo é para as tabelas com o valor do filme junto. Alguns convênios enviam desta forma o que necessitou deste parâmetro.
